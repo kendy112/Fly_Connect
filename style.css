@@ -769,11 +769,11 @@ nav{
         flex-basis: 100%;
     }
     .story img{
-        width: 20px;
+        width: 25px;
         border-width: 3px;
     }
     .story p{
-        font-size: 10px;
+        font-size: 12px;
     }
     .story.story1 img{
         width: 25px;
